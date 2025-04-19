@@ -68,6 +68,7 @@ button{
 
 .keys button:hover{
     background-color: white;
+    cursor: pointer;
     color: black;
     /* scale: 1.1; */
 }
